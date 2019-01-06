@@ -6,12 +6,12 @@ Za Vue
 
 
 全局安装 vue-cli
- npm install --g vue-cli
+    npm install --g vue-cli
 创建一个基于 webpack 模板的新项目
- vue init webpack my-project
+    vue init webpack my-project
 安装依赖，走你
- cd my-project
- npm run dev
+    cd my-project
+    npm run dev
 
 
 
