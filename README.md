@@ -19,6 +19,9 @@ Za Vue
 
 # References:
   
+- [Vue Official Guide](https://cn.vuejs.org/v2/guide/)
+- [Vue.js documentation](https://scrimba.com/playlist/pXKqta)
+
 - [Vue.js——60分钟快速入门](https://www.cnblogs.com/keepfool/p/5619070.html) 
 
 - [vue小白快速入门](https://www.cnblogs.com/chaixiaozhi/p/8682404.html)
